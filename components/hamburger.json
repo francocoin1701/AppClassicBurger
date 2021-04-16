@@ -1,0 +1,340 @@
+{
+    "hamburguesasi": [
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_1",
+            "nombre": "BURGER TRADICIONAL",
+            "precio": 9000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_2",
+            "nombre": "BURGER POLLO",
+            "precio": 9000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_3",
+            "nombre": "BURGER MIXTA",
+            "precio": 12000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_4",
+            "nombre": "CHORI-BURGER",
+            "precio": 12000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_5",
+            "nombre": "BURGER DOBLE CARNE",
+            "precio": 13000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_6",
+            "nombre": "BURGER HAWAIANA",
+            "precio": 13000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_7",
+            "nombre": "BURGER AMERICANA",
+            "precio": 13000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_8",
+            "nombre": "BURGER DOBLE CARNE ESPECIAL",
+            "precio": 16000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_9",
+            "nombre": "CHORI-BURGER ESPECIAL",
+            "precio": 16000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_10",
+            "nombre": "BURGER AMERICANA ESPECIAL",
+            "precio": 16000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_11",
+            "nombre": "BURGER INDOMABLE ESPECIAL",
+            "precio": 20000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_12",
+            "nombre": "BURGER CAMPESINA",
+            "precio": 9000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_13",
+            "nombre": "BURGER INDOMABLE",
+            "precio": 16000
+        },
+        
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_14",
+            "nombre": "BURGER DE LA CASA",
+            "precio": 17000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_15",
+            "nombre": "BURGER MEXICANA",
+            "precio": 17000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_16",
+            "nombre": "BURGER CHAMPINONES",
+            "precio": 17000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_17",
+            "nombre": "BURGER ARO",
+            "precio": 9000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_18",
+            "nombre": "BURGER ARO ESPECIAL",
+            "precio": 23000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_19",
+            "nombre": "BURGER LA NUESTRA",
+            "precio": 16000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_20",
+            "nombre": "BURGER CERDO",
+            "precio": 17000
+        },
+        {
+            "comida": "hamburguesa",
+            "id": "hamburger_21",
+            "nombre": "BURGER FUCION",
+            "precio": 16000
+        }
+     
+    ],
+    "perros": [
+        {
+            "comida": "perro",
+            "id": "perro_1",
+            "nombre": "PERRO AMERICANO",
+            "precio": 9000
+        },
+        {
+            "comida": "perro",
+            "id": "perro_2",
+            "nombre": "CHORI PERRO",
+            "precio": 10000
+        },
+        {
+            "comida": "perro",
+            "id": "perro_3",
+            "nombre": "PERRO HAWAIANO",
+            "precio": 11000
+        },
+        {
+            "comida": "perro",
+            "id": "perro_4",
+            "nombre": "CHORIPERRO ESPECIAL",
+            "precio": 13000
+        },
+        {
+            "comida": "perro",
+            "id": "perro_5",
+            "nombre": "PERRO AMERICANO ESPECIAL",
+            "precio": 12000
+        },
+        {
+            "comida": "perro",
+            "id": "perro_6",
+            "nombre": "PERRO LOCO",
+            "precio": 14000
+        },
+        {
+            "comida": "perro",
+            "id": "perro_7",
+            "nombre": "PERRO CAMPECINO",
+            "precio": 15000
+        },
+        {
+            "comida": "perro",
+            "id": "perro_8",
+            "nombre": "PERRO DE LA CASA",
+            "precio": 17000
+        },
+        {
+            "comida": "perro",
+            "id": "perro_9",
+            "nombre": "PERRO FUCION",
+            "precio": 17000
+        },
+        {
+            "comida": "perro",
+            "id": "perro_10",
+            "nombre": "PERRO MEXICANO",
+            "precio": 17000
+        }
+    ],
+    "carnes":[
+        {
+            "comida": "carnes",
+            "id": "carnes_1",
+            "nombre": "CARNE A LA GRILLE",
+            "precio": 14000
+        },
+        {
+            "comida": "carnes",
+            "id": "carnes_2",
+            "nombre": "CARNE A LA PLANCHA",
+            "precio": 15000
+        },
+        {
+            "comida": "carnes",
+            "id": "carnes_3",
+            "nombre": "CHATAS",
+            "precio": 20000
+        },
+        {
+            "comida": "carnes",
+            "id": "carnes_4",
+            "nombre": "PECHUGA GRILLE",
+            "precio": 13000
+        },
+        {
+            "comida": "carnes",
+            "id": "carnes_5",
+            "nombre": "PECHUGA A LA PLANCHA",
+            "precio": 14000
+        },
+        {
+            "comida": "carnes",
+            "id": "carnes_6",
+            "nombre": "PECHUGA GRATINADA",
+            "precio": 15000
+        },
+        {
+            "comida": "carnes",
+            "id": "carnes_7",
+            "nombre": "ESPECIAL EN CHAMPINONES",
+            "precio": 17000
+        },
+        {
+            "comida": "carnes",
+            "id": "carnes_8",
+            "nombre": "COSTILLAS DE CERDO",
+            "precio": 16000
+        }
+    ],
+    "papasLocas":[
+        {
+            "comida": "papas",
+            "id": "papas_1",
+            "nombre": "SALCHIPAPA",
+            "precio": 8000
+        },
+        {
+            "comida": "papas",
+            "id": "papas_2",
+            "nombre": "SALCHIPAPA ESPECIAL",
+            "precio": 12000
+        },
+        {
+            "comida": "papas",
+            "id": "papas_3",
+            "nombre": "CHORIPAPA",
+            "precio": 8000
+        },
+        {
+            "comida": "papas",
+            "id": "papas_4",
+            "nombre": "CHORIPAPA ESPECIAL",
+            "precio": 12000
+        },
+        {
+            "comida": "papas",
+            "id": "papas_5",
+            "nombre": "PAPAS LOCAS",
+            "precio": 14000
+        },
+        {
+            "comida": "papas",
+            "id": "papas_6",
+            "nombre": "PAPAS LOCAS DE LA CASA",
+            "precio": 18000
+        }
+
+    ],
+    "otrasComidas": [
+        {
+            "comida": "otros",
+            "id": "otrasComidas_1",
+            "nombre": "PICADA ESPECIAL",
+            "precio": 18000
+        },
+        {
+            "comida": "otros",
+            "id": "otrasComidas_2",
+            "nombre": "SUPER MIX",
+            "precio": 14000
+        },
+        {
+            "comida": "otros",
+            "id": "otrasComidas_3",
+            "nombre": "PATACON",
+            "precio": 14000
+        },
+        {
+            "comida": "otros",
+            "id": "otrasComidas_4",
+            "nombre": "PATACON DE LA CASA",
+            "precio": 17000
+        },
+        {
+            "comida": "otros",
+            "id": "otrasComidas_5",
+            "nombre": "DESGRANADO",
+            "precio": 13000
+        },
+        {
+            "comida": "otros",
+            "id": "otrasComidas_6",
+            "nombre": "DESGRANADO ESPECIAL",
+            "precio": 17000
+        },
+        {
+            "comida": "otros",
+            "id": "otrasComidas_7",
+            "nombre": "DESGRANADO DE LA CASA",
+            "precio": 17000
+        },
+        {
+            "comida": "otros",
+            "id": "otrasComidas_8",
+            "nombre": "MORRONGO",
+            "precio": 14000
+        },
+        {
+            "comida": "otros",
+            "id": "otrasComidas_9",
+            "nombre": "MORRONGO DE LA CASA",
+            "precio": 18000
+        }
+
+    ]
+}
